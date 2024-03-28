@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\bin\Debug\מגדלי טוויטר.exe.config
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\bin\Debug\מגדלי טוויטר.exe
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\bin\Debug\מגדלי טוויטר.pdb
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\obj\Debug\מגדלי טוויטר.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\obj\Debug\מגדלי טוויטר.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\obj\Debug\מגדלי טוויטר.exe
+C:\Users\User\Desktop\הדסים\מגדלי טוויטר\מגדלי טוויטר\obj\Debug\מגדלי טוויטר.pdb
